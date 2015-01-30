@@ -1,0 +1,6 @@
+# Kinect (copied from libopenni-sensor-primesense0 udev rules)
+SUBSYSTEM=="usb", ATTR{idProduct}=="02ae", ATTR{idVendor}=="045e", MODE:="0666", OWNER:="root", GROUP:="video"
+SUBSYSTEM=="usb", ATTR{idProduct}=="02ad", ATTR{idVendor}=="045e", MODE:="0666", OWNER:="root", GROUP:="audio"
+SUBSYSTEM=="usb", ATTR{idProduct}=="02b0", ATTR{idVendor}=="045e", MODE:="0666", OWNER:="root", GROUP:="video"
+SUBSYSTEM=="usb", ATTR{idProduct}=="02be", ATTR{idVendor}=="045e", MODE:="0666", OWNER:="root", GROUP:="audio"
+SUBSYSTEM=="usb", ATTR{idProduct}=="02bf", ATTR{idVendor}=="045e", MODE:="0666", OWNER:="root", GROUP:="video"
