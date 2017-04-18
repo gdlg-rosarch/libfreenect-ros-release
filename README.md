@@ -1,3 +1,26 @@
+## libfreenect (lunar) - 0.5.1-0
+
+The packages in the `libfreenect` repository were released into the `lunar` distro by running `/usr/bin/bloom-release libfreenect -t lunar -r lunar -e` on `Tue, 18 Apr 2017 14:28:10 -0000`
+
+The `libfreenect` package was released.
+
+Version of package(s) in repository `libfreenect`:
+
+- upstream repository: https://github.com/ros-drivers/libfreenect.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## libfreenect (kinetic) - 0.5.1-0
 
 The packages in the `libfreenect` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release libfreenect -r kinetic -t kinetic -n` on `Sat, 21 May 2016 22:54:26 -0000`
